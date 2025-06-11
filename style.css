@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 :root {
   --primary: #e7d849;
-  --bg: #69abaa;
+  --bg: #ffe082;
 }
 
 * {
@@ -18,7 +18,7 @@
 body {
   font-family: "Josefin Sans", sans-serif;
   background-color: var(--bg);
-  color: #ffffff;
+  color: #9c4949;
 }
 
 /* Navbar */
@@ -27,7 +27,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1.4rem 7%;
-  background-color: rgba(60, 154, 206, 0.8);
+  background-color: rgba(255, 252, 220, 0.7 );
   border-bottom: 1px solid var(--primary);
   position: fixed;
   top: 0;
@@ -39,7 +39,7 @@ body {
 .navbar .navbar-logo {
   font-size: 2rem;
   font-weight: 700;
-  color: #ffffff;
+  color: #eee5e5;
   font-style: italic;
 }
 
