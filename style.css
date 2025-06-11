@@ -39,7 +39,7 @@ body {
 .navbar .navbar-logo {
   font-size: 2rem;
   font-weight: 700;
-  color: #eee5e5;
+  color: #db8134;
   font-style: italic;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .navbar .navbar-nav a {
-  color: #ffffff;
+  color: #c22424;
   display: inline-block;
   font-size: 1.4rem;
   margin: 0 1rem;
